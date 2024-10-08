@@ -1,4 +1,4 @@
-﻿static double CalculateCircleArea(double radius)
+﻿static double CalculateCircleArea(double radius) // yaricapi girilen dairenin alanini bulan metot
 {
     return Math.PI * Math.Pow(radius, 2);
 }

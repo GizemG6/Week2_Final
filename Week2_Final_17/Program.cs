@@ -1,9 +1,9 @@
-﻿static string UpperCase(string sentence)
+﻿static string UpperCase(string sentence) // girilen cümlenin tüm harflerini buyuk yazdiran metot
 {
     return sentence.ToUpper();
 }
 
-static string LowerCase(string sentence)
+static string LowerCase(string sentence) // girilen cümlenin tüm harflerini kucuk yazdiran metot
 {
     return sentence.ToLower();
 }
