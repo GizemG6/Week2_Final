@@ -3,3 +3,9 @@ int firstValue = int.Parse(Console.ReadLine());
 Console.WriteLine("Lütfen ikinci sayiyi giriniz:");
 int secondValue  = int.Parse(Console.ReadLine());
 Console.WriteLine($"Girdiğiniz iki sayinin toplami: {firstValue + secondValue}" );
+
+//metot
+double Toplam(double a , double b)
+{
+    return a + b;
+}
