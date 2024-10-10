@@ -14,3 +14,5 @@ else
 {
     Console.WriteLine(":)");
 }
+
+//Console.WriteLine(age >= 18 ? "+" : "-");
