@@ -94,5 +94,3 @@ How to Run
 3-Implement each task in its respective method or class.
 
 4-Run the program to test each feature.
-----------------
-Feel free to contribute or raise issues if needed. Enjoy coding!
