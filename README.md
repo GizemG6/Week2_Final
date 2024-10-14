@@ -1,68 +1,86 @@
-SORULAR
+C# Practice Tasks
+----------------
+This repository contains multiple C# exercises covering basic programming concepts such as input/output, string manipulation, methods, and conditional logic.
 
-1 - Aşağıdaki çıktıyı yazan bir program.
+Tasks Overview
+----------------
+1-Greeting Program:
 
+   •A program that prints the following text:
+```bash
 Merhaba
 Nasılsın ?
 İyiyim
 Sen nasılsın ?
+```
 
+2-Variable Declaration:
 
-2 - Bir adet metinsel , bir adet tam sayı verisi tutmak için 2 adet değişken tanımlayınız. Bunların değerlerini atayıp , ekrana yazdırınız.
+   •Define two variables: one for a string and one for an integer. Assign values to them and print them to the screen.
 
+3-Random Number Generation:
 
-3 - Rastgele bir sayı üretip , ekrana yazdırınız.
+   •Generate a random number and display it.
 
+4-Remainder Calculation:
 
+   •Generate a random number and display the remainder when divided by 3.
 
-4 - Rastgele bir sayı üretip , bunun 3'e bölümünden kalanı ekrana yazdırınız.
+5-Age Verification:
 
+   •Ask the user for their age and display "+" if the user is over 18, otherwise display "-".
 
+6-Repeated Message:
 
-5 - Kullanıcıya yaşını sorup , 18'den büyükse "+" küçükse "-" yazdıran bir uygulama.
+   •Print the message "Sen Vodafone gibi anı yaşarken, ben Turkcell gibi seni her yerde çekemem." ten times.
 
+7-Swap Strings:
 
+   •Ask the user for two string values (e.g., "Gülse Birsel" and "Demet Evgar") and swap their values.
 
-6 - Ekrana 10 defa " Sen Vodafone gibi anı yaşarken , ben Turkcell gibi seni her yerde çekemem." yazan bir uygulama.
+8-Void Method Example:
 
+   •Create a method called BenDegerDondurmem that prints:
+```bash
+Ben değer döndürmem, benim bir karşılığım yok, beni değişkene atamaya çalışma.
+```
 
+9-Sum Two Numbers:
 
-7 - Kullanıcıdan 2 adet metinsel değer alıp "Gülse Birsel" , "Demet Evgar" , bunların yerlerini değiştiriniz.
+   •Write a method that accepts two numbers, returns their sum.
 
+10-Boolean Input:
 
-8 - Değer döndürmeyen ismi BenDegerDondurmem olan bir metot tanımlayınız. Ekrana "Ben değer döndürmem , benim bir karşılığım yok , beni değişkene atamaya çalışma" yazsın.
+   •Write a method that takes a boolean value from the user and returns a string.
 
+11-Find Oldest Age:
 
+   •Create a method that takes the ages of 3 people and returns the age of the oldest person.
 
-9 - İki sayıyı alıp bunların toplam değerini geriye döndüren bir metot yazınız.
+12-Find Maximum:
 
-10 - Kullanıcıdan true ya da false değeri alıp string bir değer dönen bir metot tanımlayınız.
+   •Write a method that takes an unlimited number of inputs from the user and returns and prints the largest number.
 
- 11 - 3 Kişinin yaşlarını alıp en yaşlı olanının yaş bilgisini dönen bir metot yazınız.
+13-Swap Names via Method:
 
+   •Write a method that swaps two names provided by the user.
 
+14-Odd or Even Check:
 
-12 - Kullanıcıdan sınırsız sayıda sayı alıp , bunlardan en büyüğünü ekrana yazdıran ve aynı zamanda geriye dönen bir metot yazınız.
+   •Write a method that takes a number from the user and returns true if it is odd and false if it is even.
 
+15-Distance Calculation:
 
+   •Write a method that calculates the distance traveled given speed and time.
 
-13- Bir metot yardımıyla kullanıcıdan alınan 2 ismin yerlerini değiştiren uygulamayı yazınız.
+16-Circle Area Calculation:
 
+   •Write a method that calculates the area of a circle, given its radius.
 
+17-String Case Conversion:
 
-14 - Kullanıcıdan alınan sayının tek mi yoksa çift mi olduğu bilgisini (true/false) dönen bir metot.
+   •Convert the sentence "Zaman bir GeRi SayIm" to all uppercase and all lowercase letters.
 
+18-Trim String:
 
-
-15 - Kullanıcıdan alınan hız ve zaman bilgileriyle , gidilen yolu hesaplayan bir metot yazınız.
-
-
-
-16 - Yarıçap bilgisi verilen bir dairenin alanını hesaplayan bir metot yazınız.
-
-
-
-17 - "Zaman bir GeRi SayIm" cümlesini alıp , hepsi büyük harf ve hepsi küçük harfle yazdırınız.
-
-
-18 - "    Selamlar   " metnini bir değişkene atayıp , başındaki ve sonundaki boşlukları siliniz. Kalıcı olarak.
+   •Assign the string " Selamlar " to a variable, remove leading and trailing spaces permanently.
