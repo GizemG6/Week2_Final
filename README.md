@@ -84,3 +84,15 @@ Ben değer döndürmem, benim bir karşılığım yok, beni değişkene atamaya 
 18-Trim String:
 
    •Assign the string " Selamlar " to a variable, remove leading and trailing spaces permanently.
+
+How to Run
+----------------
+1-Clone this repository to your local machine.
+
+2-Open the project in an IDE that supports C# (e.g., Visual Studio).
+
+3-Implement each task in its respective method or class.
+
+4-Run the program to test each feature.
+----------------
+Feel free to contribute or raise issues if needed. Enjoy coding!
